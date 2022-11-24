@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: gregoiredechaine/vuepress-2-boilerplate-netlify-cms
-  branch: master # Brandh to update (Optional; Defaults to master)
+  branch: main # Brandh to update (Optional; Defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"
 collections:
