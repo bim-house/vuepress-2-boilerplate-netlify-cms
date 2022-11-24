@@ -1,8 +1,8 @@
 {
-  "name": "vuepress-2-boilerplate",
+  "name": "vuepress-2-boilerplate-netlify-cms",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/gregoiredechaine/vuepress-2-boilerplate",
+  "repository": "https://github.com/gregoiredechaine/vuepress-2-boilerplate-netlify-cms",
   "author": "Gregoire Dechaine <gregdechaine@me.com>",
   "license": "MIT",
   "scripts": {

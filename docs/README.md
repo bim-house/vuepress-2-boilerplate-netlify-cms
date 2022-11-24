@@ -1,1 +1,1 @@
-# Hello Vuepress 2
+# Hello Vuepress 2 w Netlify CMS
