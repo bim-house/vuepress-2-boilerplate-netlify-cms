@@ -8,8 +8,17 @@ export default defineUserConfig({
         docsDir: 'docs',
         repo: 'gregoiredechaine/vuepress-2-boilerplate-netlify-cms',
         sidebar: [
-            '/',
-            '/welcome',
+            // SidebarItem
+            {
+                text: 'Home',
+                link: '/',
+            },
+            // SidebarItem
+            {
+                text: 'Docs',
+                link: '/docs/',
+                children: [], 
+            },
             '/test',
         ],
         navbar: [
