@@ -7,6 +7,11 @@ export default defineUserConfig({
     theme: defaultTheme({
         docsDir: 'docs',
         repo: 'gregoiredechaine/vuepress-2-boilerplate-netlify-cms',
+        sidebar: [
+            '/',
+            '/welcome',
+            '/test',
+        ],
         navbar: [
             {
                 text: 'Vuepress 2 - Netlify CMS',
