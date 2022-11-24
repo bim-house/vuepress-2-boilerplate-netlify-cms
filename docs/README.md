@@ -1,8 +1,13 @@
 ---
 home: true
 heroImage: /images/architecture-plan-icon.jpeg
-actionText: Welcome ⏎
-actionLink: /welcome
+actions:
+-   text: Welcome ⏎
+    link: /welcome
+    type: primary
+-   text: Admin ⏎
+    link: /admin/#/
+    type: secondary
 features:
 -   title: Markdown Editing
     details: Netlify CMS provides a flexible Markdown Editor
