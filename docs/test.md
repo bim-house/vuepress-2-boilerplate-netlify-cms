@@ -1,4 +1,4 @@
 ---
-title: My First Netlfiy Post
+title: My First Netlify Post
 ---
 # Test
