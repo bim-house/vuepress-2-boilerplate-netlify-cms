@@ -18,4 +18,3 @@ features:
 footer: MIT Licensed | Copyright @2022-Present Gregoire Dechaine (www.gregoiredechaine.com)
 title: Front Page
 ---
-# Hello Vuepress 2 w Netlify CMS
