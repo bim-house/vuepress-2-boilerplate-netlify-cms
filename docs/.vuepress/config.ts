@@ -14,12 +14,11 @@ export default defineUserConfig({
                 link: '/',
             },
             // SidebarItem
-            //{
-            //    text: 'Docs',
-            //    link: '/docs/',
-            //    children: [], 
-            //},
-            '/test',
+            {
+                text: 'Welcome',
+                link: '/welcome.md',
+                children: [], 
+            },
         ],
         navbar: [
             {
